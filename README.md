@@ -1,6 +1,6 @@
 # onesignal_api
 
-This project is used to push notification for linking to one- signal
+This project is used to push notification for linking to one- signal using SOAP frameword
 
 Getting Started 🚀
 
